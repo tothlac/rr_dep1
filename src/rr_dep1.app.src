@@ -5,7 +5,7 @@
               {registered,[]},
               {applications,[compiler,
                              kernel,
-                             stdlib,
+                             stdlib
                             ]},
               {env,[]},
               {mod,{rr_dep1,[]}}]}.
