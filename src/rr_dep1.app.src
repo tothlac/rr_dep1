@@ -1,0 +1,11 @@
+{application, rr_dep1,
+             [{vsn, git},
+              {description,"RR dep1"},
+              {modules,[]},
+              {registered,[]},
+              {applications,[compiler,
+                             kernel,
+                             stdlib,
+                            ]},
+              {env,[]},
+              {mod,{rr_dep1,[]}}]}.
